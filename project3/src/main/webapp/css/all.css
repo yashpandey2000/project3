@@ -1,0 +1,21 @@
+
+img{
+
+    border-radius: 8px;
+    padding: 5px;
+    background-color:  rgba(255, 238, 238, 0.425);
+}
+
+  
+   .dropdown-item:HOVER {
+    position: relative;
+    display: inline-block;
+    transition: 0.6 ease;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    
+} 
+
+
